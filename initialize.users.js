@@ -16,7 +16,7 @@ Meteor.startup(function () {
       profile: {
         name: 'April ONeil',
         role: 'News Reporter',
-        avatar: '/avatars/april.oneil.jpg'
+        avatar: '/packages/awatson1978_accounts-turtles/turtles/april.oneil.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -29,7 +29,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Casey Jones',
         role: 'Hockey Player',
-        avatar: '/avatars/casey.jones.jpg'
+        avatar: '/packages/awatson1978_accounts-turtles/turtles/casey.jones.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -43,7 +43,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Donatello',
         role: 'Ninja',
-        avatar: '/avatars/donatello.jpg'
+        avatar: '/packages/awatson1978_accounts-turtles/turtles/donatello.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -56,7 +56,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Leonardo',
         role: 'Ninja',
-        avatar: '/avatars/leonardo.jpg'
+        avatar: '/packages/awatson1978_accounts-turtles/turtles/leonardo.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -69,7 +69,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Michaelangelo',
         role: 'Ninja',
-        avatar: '/avatars/donatello.jpg'
+        avatar: '/packages/awatson1978_accounts-turtles/turtles/donatello.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -82,7 +82,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Raphael',
         role: 'Ninja',
-        avatar: '/avatars/raphael.jpg'
+        avatar: '/packages/awatson1978_accounts-turtles/turtles/raphael.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -95,7 +95,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Shredder',
         role: 'Evil Villian',
-        avatar: '/avatars/shredder.jpg'
+        avatar: '/packages/awatson1978_accounts-turtles/turtles/shredder.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -108,7 +108,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Splinter',
         role: 'Guru Master',
-        avatar: '/avatars/splinter.jpg'
+        avatar: '/packages/awatson1978_accounts-turtles/turtles/splinter.jpg'
       }
     });
     console.info('Account created: ' + userId);
